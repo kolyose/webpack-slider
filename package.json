@@ -1,0 +1,17 @@
+{
+  "name": "WebpackSlider",
+  "author": "Sergey Kolesnik",
+  "version": "0.0.1",
+  "description": "Babel + Jade + Stylus",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "*",
+    "jade-loader": "*",
+    "css-loader": "*",
+    "stylus-loader": "*",
+    "style-loader": "*",
+	"babel-loader": "*"
+  }
+}
